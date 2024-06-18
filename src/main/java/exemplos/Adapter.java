@@ -27,7 +27,7 @@ class PagamentoAdapter implements Pagamento {
 }
 
 // Uso do adaptador
-public class Main {
+public class Adapter {
     public static void main(String[] args) {
         PagamentoAPI apiNova = new PagamentoAPI();
         Pagamento adaptador = new PagamentoAdapter(apiNova);
