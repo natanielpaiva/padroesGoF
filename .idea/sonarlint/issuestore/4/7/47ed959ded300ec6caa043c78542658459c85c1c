@@ -1,0 +1,6 @@
+
+–
+java:S1450%"SRemove the "news" field and declare it as a local variable in the relevant methods.(ª—ƒµ8×¦ýî‚2J$c6cd2528-81cf-429c-ab39-3b59b04c89d0
+m	java:S106*"+Replace this use of System.out by a logger.(æðúÿ8Ø¦ýî‚2J$078f3c36-23c3-4237-84e3-2b6d69207cf8
+k
+java:S1068%"(Remove this unused "news" private field.(ª—ƒµ8Þ¦ýî‚2J$fcc8e95f-bc60-4982-960f-ba8c5781fb54
