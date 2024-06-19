@@ -1,8 +1,6 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-P
- src/main/java/exemplos/Main.java,b/2/b24b9036b63def49f1a3cca6636596f985bc5cee
 S
 #src/main/java/exemplos/Adapter.java,d/b/dba9392922514587096679d2789f75ca6fcb762a
 U
@@ -13,3 +11,7 @@ T
 $src/main/java/exemplos/Observer.java,4/7/47ed959ded300ec6caa043c78542658459c85c1c
 T
 $src/main/java/exemplos/Strategy.java,d/9/d975b7cf481456f8919f0d7e359d63234be09e2a
+R
+"src/main/java/exemplos/Comand.java,a/1/a16aa64586c9e74edf502a32ad81b63ddeb7dd0c
+S
+#src/main/java/exemplos/Command.java,e/4/e4eda6a258449a0b3c62c3df2d885635e4965baa
