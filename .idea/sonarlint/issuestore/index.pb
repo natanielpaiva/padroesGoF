@@ -11,3 +11,5 @@ R
 "src/main/java/exemplos/Facade.java,a/5/a57af2e0155cbedbe5765476011640b2aa77e0f8
 T
 $src/main/java/exemplos/Observer.java,4/7/47ed959ded300ec6caa043c78542658459c85c1c
+T
+$src/main/java/exemplos/Strategy.java,d/9/d975b7cf481456f8919f0d7e359d63234be09e2a
